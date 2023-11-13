@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400;0,700;1,800&family=Roboto+Slab:wght@700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  padding: 80px 0 130px 134px;
+  background-color: #fdf0e9;
+  min-height: 100vh;
+  display: flex;
+}
+.box1 {
+  padding: 52px;
+}
+.box2 {
+  padding: 52px;
+}
+.box3 {
+  padding: 52px;
+}
+.box1 {
+  border-radius: 6px 0px 0px 6px;
+  border: 1px solid #f3d1bf;
+  width: 391px;
+  height: 192px;
+  flex-shrink: 0;
+}
+.box2 {
+  border-radius: 6px 0px 0px 6px;
+  border: 1px solid #f3d1bf;
+  width: 391px;
+  height: 192px;
+  flex-shrink: 0;
+}
+.box3 {
+  border-radius: 6px 0px 0px 6px;
+  border: 1px solid #f3d1bf;
+  width: 391px;
+  height: 192px;
+  flex-shrink: 0;
+}
+.container .box h3 {
+  color: #ef6d58;
+  font-family: Epilogue;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+.container .box p {
+  color: #391400;
+  font-family: Epilogue;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+}
